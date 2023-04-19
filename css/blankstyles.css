@@ -1,0 +1,27 @@
+head{
+    color: black;
+}
+  
+  body{
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      background-color: orange;
+      background-image: url( "https://wallpapercave.com/wp/wp2722874.jpg");
+      color: white;/*font color*/
+  }
+  img{
+      display: block;
+      border: 2px solid red;
+      padding:5px;
+      margin:auto; 
+      text-align: center;
+  }
+  a{
+      color: blueviolet;
+  }
+  a:visited{
+      color:blue;
+  }
+  li{
+      color:black;
+      font-style: italic;
+  }
